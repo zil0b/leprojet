@@ -11,5 +11,7 @@
     define("fun","functions");
     define("mod","modules");
     define("dat","datas");
-
+    define("DALBE",ROOT."dalbe");
+    
     # vars
+    include (DALBE."/dalbe.php");
