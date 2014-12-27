@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<root>
+
+	<user id="1" login="editor" pass="rotide"></user>
+	<user id="2" login="admin" pass="nimda"></user>
+	<user id="3" login="tester" pass="retset"></user>
+	
+</root>
